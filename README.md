@@ -12,7 +12,7 @@ This project is a Unity game inspired by "Guitar Hero." The goal is to create a 
 - UI elements displaying lives, hits, and streaks.
 - Scene transitions between gameplay, victory, and defeat scenes.
 
-## Original Game 
+## Original Game
 
 You can check the gameplay of the original "Guitar Hero" [here](https://www.youtube.com/watch?v=UHaQSiHoNL8&ab_channel=IGN)
 
