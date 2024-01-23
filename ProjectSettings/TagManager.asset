@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Bottom Boarder
+  - Red Cube
+  - Yellow Cube
+  - Blue Cube
   layers:
   - Default
   - TransparentFX
